@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## String
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0037-sudoku-solver) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
