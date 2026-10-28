@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1773-count-items-matching-a-rule](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1773-count-items-matching-a-rule](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3912-valid-elements-in-an-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3912-valid-elements-in-an-array) |
 ## Sliding Window
