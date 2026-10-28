@@ -1,0 +1,32 @@
+/******************************************************************************
+
+Welcome to GDB Online.
+  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
+  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
+  Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+#include <iostream>
+using namespace std;
+
+int prime(int x){
+    for(int i = 2; i < x ; i++){
+        if( x%i == 0 ){
+            return 1;
+        }else{
+            return 2;
+        }
+    }
+}
+int main()
+{
+    int a;
+    cout << "enter the value of a :";
+    cin >> a;
+    if( prime(a) == 1 ){
+        cout << "it is not a prime number";
+    }else if( prime(a) == 2 ){
+        cout << "it is a prime number";
+    }
+    return 0;
+}

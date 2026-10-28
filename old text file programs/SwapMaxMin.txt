@@ -1,0 +1,44 @@
+/******************************************************************************
+
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+#include <iostream>
+#include <climits>
+using namespace std;
+void swapmaxmin(int arr[],int size){
+    int maxi = INT_MIN;
+    int mini = INT_MAX;
+    int l,m;
+    for(int i = 0; i < size; i++){
+        if( maxi < arr[i] ){
+            l = i;
+            maxi = arr[i];
+        }
+        if( mini > arr[i] ){
+            m = i;
+            mini = arr[i];
+        }
+    }
+   swap(arr[l],arr[m]);
+}
+
+int main()
+{
+   int arr[] = { 1, 2, 3, 4, 5};
+   int size = sizeof(arr)/sizeof(int);
+   cout << "Values before swap : " ;
+   for(int i = 0; i < size; i++){
+       cout << arr[i] << " ";
+   }
+   swapmaxmin(arr,size);
+   
+   cout << endl << "Values after swap : ";
+   for(int i = 0; i < size; i++){
+       cout << arr[i] << " ";
+   }
+   return 0;
+}
