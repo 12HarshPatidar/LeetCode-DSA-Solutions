@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3912-valid-elements-in-an-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3912-valid-elements-in-an-array) |
 ## Sliding Window
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
