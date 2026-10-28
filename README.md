@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [3912-valid-elements-in-an-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3912-valid-elements-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
