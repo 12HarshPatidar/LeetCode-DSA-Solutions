@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
