@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0078-subsets) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
