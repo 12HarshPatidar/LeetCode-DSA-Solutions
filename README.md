@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0509-fibonacci-number) |
@@ -180,9 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
