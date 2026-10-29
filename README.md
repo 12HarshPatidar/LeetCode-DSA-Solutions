@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0078-subsets) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
