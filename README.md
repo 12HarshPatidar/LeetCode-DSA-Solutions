@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1773-count-items-matching-a-rule](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -169,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
