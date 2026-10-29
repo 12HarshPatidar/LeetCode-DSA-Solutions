@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Newton's Method
