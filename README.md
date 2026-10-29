@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0041-first-missing-positive) |
+| [0074-search-a-2d-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Algorithm X
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
