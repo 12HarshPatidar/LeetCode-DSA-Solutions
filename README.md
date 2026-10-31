@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -198,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
