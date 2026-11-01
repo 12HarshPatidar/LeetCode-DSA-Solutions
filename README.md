@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
