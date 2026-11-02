@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1773-count-items-matching-a-rule](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3151-special-array-i](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3151-special-array-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
 | ------- |
