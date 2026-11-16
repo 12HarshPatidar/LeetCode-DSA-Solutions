@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
