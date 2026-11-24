@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3151-special-array-i](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3151-special-array-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3912-valid-elements-in-an-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3912-valid-elements-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0509-fibonacci-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
@@ -223,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
