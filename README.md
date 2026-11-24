@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0131-palindrome-partitioning](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0541-reverse-string-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Counting
