@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1773-count-items-matching-a-rule](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1833-maximum-ice-cream-bars](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3151-special-array-i](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3151-special-array-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1833-maximum-ice-cream-bars](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Bracket Sequences
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Simulation
 |  |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
