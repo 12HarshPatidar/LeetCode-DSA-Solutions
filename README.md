@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/0509-fibonacci-number) |
+| [3360-stone-removal-game](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/12HarshPatidar/LeetCode-DSA-Solutions/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
